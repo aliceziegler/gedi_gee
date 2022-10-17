@@ -23,7 +23,7 @@ Sometimes the PAI is missing in the GEDI data.
 
 [ ] Implement point buffer. If we have multiple pixel per polygon, we should be able to identify this via the system:index of GEE.
 [ ] Use prefiltered orbits from Alice.
-[ ] Implement Sentinel 1
+[x] Implement Sentinel 1
 
 
 
